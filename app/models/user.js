@@ -19,5 +19,5 @@ const userSchema = new mongoose.Schema(
     }
 );
 
-const User = mongoose.model("user",userSchema); //The model provides methods to fetch documents
+const User = mongoose.model("User",userSchema); //The model provides methods to fetch documents
 export default User;

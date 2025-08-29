@@ -27,34 +27,40 @@ This project manages **Users, Customers, and Cases** with CRUD operations and ba
 ## Screenshots
 
 ### List of all Users
-![App Screenshot](./assets/screenshot/GET-userList.png)
+![App Screenshot](./assets/screenshot/getAllusers-GET.png)
 
 ### Create new user
-![App Screenshot](./assets/screenshot/POST-registerUser.png)
+![App Screenshot](./assets/screenshot/registerUser-POST.png)
 
 ### Login exisiting User
-![App Screenshot](./assets/screenshot/POST-registerUser.png)
+![App Screenshot](./assets/screenshot/loginUser-POST.png)
 
 ### Update User
-![App Screenshot](./assets/screenshot/PATCH-updateUser.png)
+![App Screenshot](./assets/screenshot/updateUser-PATCH.png)
 
 ### Add Customers
-![App Screenshot](./assets/screenshot/POST-addcutomer.png)
+![App Screenshot](./assets/screenshot/addCustomer-POST.png)
 
 ### Show all Customers
-![App Screenshot](./assets/screenshot/GET-customerList.png)
+![App Screenshot](./assets/screenshot/customerList-GET.png)
 
 ### Update Customer
-![App Screenshot](./assets/screenshot/PATCH-customerUpdate.png)
+![App Screenshot](./assets/screenshot/UpdateCustomer-PATCH.png)
+
+### Delete Customer
+![App Screenshot](./assets/screenshot/deleteCustomer-DELETE.png)
 
 ### Create Case
-![App Screenshot](./assets/screenshot/POST-createCase.png)
+![App Screenshot](./assets/screenshot/createCase-POST.png)
 
 ### Show All Cases
-![App Screenshot](./assets/screenshot/GET-ShowAllCases.png)
+![App Screenshot](./assets/screenshot/caseList-GET.png)
 
 ### Case Update
-![App Screenshot](./assets/screenshot/PATCH-caseUpdate.png)
+![App Screenshot](./assets/screenshot/caseUpdate-PATCH.png)
 
-### MongoDB Compass
-![App Screenshot](./assets/screenshot/CollectionList-MongoDB.png)
+### Case Delete
+![App Screenshot](./assets/screenshot/caseDelete-DELETE.png)
+
+### MongoDB Compass Screenshot
+![App Screenshot](./assets/screenshot/mongoose.png)
